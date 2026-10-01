@@ -14,7 +14,7 @@ The purpose of this software is to practice working with real-world data and usi
 
 The program also creates a bar graph showing the teams with the most total goals as a stretch challenge.
 
-[Software Demo Video](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[Software Demo Video](https://youtu.be/48BvPc5Mtxw)
 
 # Data Analysis Results
 
